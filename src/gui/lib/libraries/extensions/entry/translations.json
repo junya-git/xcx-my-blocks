@@ -1,0 +1,14 @@
+{
+  "en": {
+    "myBlocks.entry.name": "My Blocks",
+    "myBlocks.entry.description": "My own personal blocks"
+  },
+  "ja": {
+    "myBlocks.entry.name": "My Blocks",
+    "myBlocks.entry.description": "自分だけのブロック"
+  },
+  "ja-Hira": {
+    "myBlocks.entry.name": "My Blocks",
+    "myBlocks.entry.description": "じぶんだけのブロック"
+  }
+}
